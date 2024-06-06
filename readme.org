@@ -5,7 +5,7 @@
 This tutorial take you from the bare bones concepts of bio-physically detailled
 cells to a simple network in Arbor. It is meant mainly for self-directed study
 and experimentation with the opportunity to ask questions. If you are tackling
-this on your own (i.e. not during a workshop), please contact us on Gitter.
+this on your own (i.e. not during a workshop), please contact us on [[https://app.gitter.im/#/room/#arbor-tutorial:gitter.im][Gitter]].
 
 * Getting Started
 You'll need recent versions of Linux or MacOS, Python3, and possibly a C++ compiler.
@@ -18,5 +18,12 @@ pip3 install arbor numpy seaborn matplotlib networkx jupyter
 jupyter lab
 #+end_src
 
-While your packages are being install, you can take a look at the introduction
-in ~intro.pdf~. Then, open the ~arbor-tutorial.ipynb~ notebook.
+While your packages are being installed, you can take a look at the introduction
+in ~intro.pdf~. Then, open the ~arbor-tutorial.ipynb~ notebook; everything else
+should follow from there.
+
+* Useful Links
+- Source code :: https://github.com/arbor-sim/arbor/
+- Documentation :: https://docs.arbor-sim.org/en/stable/
+- Chat server :: https://app.gitter.im/#/room/#arbor-sim_community:gitter.im
+- This :: https://github.com/thorstenhater/arbor-tutorial
